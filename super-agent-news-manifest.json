@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[thepitstop.ai](https://thepitstop.ai/blog/state-of-agent-security-2026)",
+    "[securityweek.com](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/)",
+    "[venturebeat.com](https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure)",
+    "[darkreading.com](https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[housingwire.com](https://www.housingwire.com/)",
+    "[realestatenews.com](https://www.realestatenews.com/)"
+  ],
+  "design_plan": "RNG(seed=42)->layout=comparison-architecture; AIDA checked; hero math: 2\u20133 lines @1120px; bento density verified via grid-auto-flow:dense; competitors label sweep done; button contrast AA+; security evidence sections sourced.",
+  "generated_at": "2026-07-01T21:21:21.977537+00:00",
+  "headline": "Super for real estate agents managing follow\u2011ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion\u2011focused niche landing page for real estate agents. Shows how Super\u2019s personal AI agents operate real apps (CRM, email, MLS portals, calendars) and reuse a computer-use cache so repeated follow-ups and listing workflows get faster and cheaper\u2014grounded in current security and agentic\u2011AI evidence."
+}
